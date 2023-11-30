@@ -1,0 +1,8 @@
+{
+  "name": "catatanRespon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4f1913f4"
+}
